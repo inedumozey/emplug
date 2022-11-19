@@ -1,0 +1,14 @@
+body {
+  width: 100%;
+  height: auto;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 414px) {
+  .deviceWidth {width:280px!important; padding:0;}	
+  .center {text-align: center!important;}	 
+    }

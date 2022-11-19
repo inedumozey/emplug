@@ -1,0 +1,8 @@
+#custom-button {
+	/* background: rgba(208, 239, 59, 0.3); */
+	background: #00b500;
+	border: none;
+	border-radius: 4px;
+	color: #fff;
+	margin: 5px;
+}

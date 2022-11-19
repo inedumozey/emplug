@@ -1,0 +1,8 @@
+.react-form-builder > div {
+	display: flex;
+	width: 70%;
+}
+
+/* .react-form-builder div:nth-child(2) {
+	width: 30%;
+} */

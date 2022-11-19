@@ -1,0 +1,13 @@
+.answer-item{
+    background: rgba(233, 248, 234, 1);
+}
+
+.answer-item:hover{
+    background: rgb(217, 231, 218);
+    cursor: pointer;
+}
+
+.answer-item.selected{
+    background: rgb(149, 159, 150);
+    color: white;
+}

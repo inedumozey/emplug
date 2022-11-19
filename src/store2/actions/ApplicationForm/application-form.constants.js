@@ -1,0 +1,4 @@
+export default Object.freeze({
+    GET_APPLICATION_FORM_DATA: 'GET_APPLICATION_FORM_DATA',
+    RESET_FORM_DATA: 'RESET_FORM_DATA'
+})

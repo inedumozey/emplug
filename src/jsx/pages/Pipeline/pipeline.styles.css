@@ -1,0 +1,9 @@
+.pipelineOptions {
+	cursor: pointer;
+	border-bottom: 1px dotted #eee;
+}
+
+.pipelineOptions:hover {
+	background: #00b500;
+	color: white;
+}
